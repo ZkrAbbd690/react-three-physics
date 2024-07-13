@@ -25,12 +25,12 @@ export function Underlay() {
           color: "#ffb3b3",
           letterSpacing: -2,
         }}>
-        <div style={{ marginBottom: "10px" }}>Ha Huyen Tran</div>
-        <div style={{ marginBottom: "10px" }}>Nguyen Thi Tuyet Hanh</div>
-        <div style={{ marginBottom: "10px" }}>Le Ngoc My</div>
-        <div style={{ marginBottom: "10px" }}>Vo Thi Minh Thuy</div>
-        <div style={{ marginBottom: "10px" }}>Ngo Phuong Thuy</div>
-        <div style={{ marginBottom: "10px" }}>Do Thai Ha</div>
+        <div style={{ marginBottom: "10px" }}>Fine Grained Consulting</div>
+        <div style={{ marginBottom: "10px" }}>This is a sample</div>
+        <div style={{ marginBottom: "10px" }}>Demo</div>
+        <div style={{ marginBottom: "10px" }}>for React three-fiber</div>
+        <div style={{ marginBottom: "10px" }}>And</div>
+        <div style={{ marginBottom: "10px" }}>Rapier</div>
       </div>
 
       <div
@@ -44,7 +44,7 @@ export function Underlay() {
           letterSpacing: -2,
         }}>
         <p style={{ display: "flex", justifyContent: "end", fontSize: 50, lineHeight: "1em", color: "#ff6666", margin: 0, letterSpacing: 1 }}>
-          happy women's day
+          Sample Animation with physics!!!
         </p>
       </div>
     </div>
